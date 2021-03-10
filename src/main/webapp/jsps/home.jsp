@@ -21,8 +21,7 @@
 		Martha Halli,
 		Bangalore,
 		+91-9885553477,
-		+91-8330911155,
-		+91- 9206246663
+		+91-8330911155.
 		devopstrainingbr@gmail.com
 		<br>
 		<a href="mailto:devopstrainingblr@gmail.com">Mail to SAMPAT-OMASAIRAM</a>
