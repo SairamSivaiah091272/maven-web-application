@@ -20,7 +20,7 @@
 		SAMPAT-OMASAIRAM, 
 		Martha Halli, Above ICICI Bank, Beside Meghana Foods,
 		Bangalore,
-		+91-9885553477
+		+91-9885553477,+91-8330911155
 		k.siva091272@gmail.com
 		<br>
 		<a href="mailto:k.siva091272@gmail.com">Mail to SAMPAT-OMASAIRAM</a>
